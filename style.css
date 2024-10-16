@@ -1,0 +1,59 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qeXfizbwVcRny94y5uNBV8jrVAgVFqgB0g&s");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.topnav{
+   
+    margin-left: 50%;
+    margin-top:-30px;
+    margin-bottom: 20px;
+     
+}
+.topnav a{
+    padding: 15px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    
+}
+.topnav a:hover {
+    background-color:blue; 
+}
+h1:hover{
+    border: 2px solid blue;
+    width: 90px;
+    
+    background-color: aqua;
+}
+.pit{
+    border: 2px solid black;
+    width: 50%;
+    height: 500px;
+    background-image: url("https://img.freepik.com/free-photo/border-from-blue-stationery_23-2147851957.jpg");
+}
+h2{
+    text-align: center;
+    margin: auto;
+    margin-top:30%;
+    font-size: 90px;
+}
+.pag{
+    
+    width: 50%;
+    height: 500px;
+    margin-left: 20px;
+    font-size: 20px;
+    padding-left: 60px;
+    color: white;
+    margin-top: 30px;
+    padding-top: 20px;
+}
+.main2{
+    display: flex;
+    margin: auto;
+    position: relative;
+   
+}
